@@ -1,0 +1,15 @@
+read about
+1. AJAX.
+2. useEffect.
+
+
+
+- In REACT, we have 2 fundamentals mainly - State, Props.
+State (short term memory) - to keep track of what we input.
+  1. to initialize state, syntax - const [input, setInput] = useState('')
+
+use REACT instead of AJAX coz react is much simpler and scalable.
+read about - AJAX.  
+
+useState - variables in React.
+useEffect - run code on a condition.
